@@ -1,2 +1,3 @@
 # comentario
-print("hola mundo")
+nombre = "Pepe"
+print(nombre)
